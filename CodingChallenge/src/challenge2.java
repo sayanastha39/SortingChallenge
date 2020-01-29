@@ -1,3 +1,4 @@
+//Alternative sorting
 import java.util.*;
 
 public class challenge2 {
